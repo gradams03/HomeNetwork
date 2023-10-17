@@ -1,0 +1,3 @@
+I was able to find an used commercial switch to connect all of the devices on my network. I have the option of 24 ports to use, but only currently use 6. I will be looking 
+into further configuration of the switch, but for now I am using it with its original configuration and using my router for DDNS. Connected to the switch is my router, as well
+as four PC's in a proxmox cluster and ethernet cables for my two laptops at any time. I prefer a hardware connection anytime possible. 
